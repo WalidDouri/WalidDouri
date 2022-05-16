@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ForMom](https://github.com/WalidDouri/ForMom)
 
-- 🌱 I’m currently learning **AWS, WP, Next & Angular**
+- 🌱 I’m currently learning **AWS, WP & Next**
 
 - 💬 Ask me about **Javascript, MySQL, PostGres, & React**
 
