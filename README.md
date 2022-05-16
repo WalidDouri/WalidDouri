@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **walid_douri@hotmail.com**
 
-- 📄 Know about my experiences [>Here<](https://resume.io/r/p87ciqMJ2)
+<!-- - 📄 Know about my experiences [>Here<](https://resume.io/r/p87ciqMJ2) -->
 
 - ⚡ Fun fact **I Love To Bake**
 
