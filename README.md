@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walid Douri</h1>
-<h3 align="center">//A Full Stack Developer with a passion of making things stupid simple and accessible. A dying love for math as a previous '${Accountant}'</h3>
+<h3 align="center">//A Full Stack Developer with a passion of making things stupid simple and accessible. A dying love for math as a previous `${Accountant}`</h3>
 
 <!-- - 🔭 I’m currently working on [ForMom](https://github.com/WalidDouri/ForMom) -->
 
