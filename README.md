@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript, MySQL, PostGres, & React**
 
-- 📫 How to reach me **walid_douri@hotmail.com**
+<!-- - 📫 How to reach me **walid_douri@hotmail.com** -->
 
 <!-- - 📄 Know about my experiences [>Here<](https://resume.io/r/p87ciqMJ2) -->
 
